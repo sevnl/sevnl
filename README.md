@@ -3,22 +3,8 @@
 Saya adalah Full Stack Developer yang berfokus pada pengembangan aplikasi web modern menggunakan **Laravel**, **React**, **Next.js**, dan **TypeScript**.
 Selain pengembangan web, saya juga tertarik pada game modding, lokalisasi game, serta pembuatan tools untuk membantu proses translasi dan distribusi mod game.
 
-### What I'm Working On
-- Mengembangkan **AltusMods** bersama tim kecil, sebuah platform mod game dan lokalisasi Bahasa Indonesia untuk PC
-- Membangun dan memelihara aplikasi web dengan fokus pada performa, SEO, dan pengalaman pengguna
-- Mengembangkan tools untuk lokalisasi dan modding game
-- Hubungi saya di: [alidarmawan001@gmail.com](mailto:alidarmawan001@gmail.com)
-
 ### Contact
 - Email: alidarmawan001@gmail.com
-- Website: https://sevnl.com
-- Project: https://altusmods.com
-
-## 🚀 Projects
-| Project | Description |
-|---------|-------------|
-| [**AltusMods**](https://altusmods.com) | Platform distribusi mod dan lokalisasi Bahasa Indonesia untuk game PC yang dibangun menggunakan Laravel, Next.js, React, Inertia.js, MySQL, dan Tailwind CSS. |
-| **AltusTool** | Tool desktop internal untuk ekstraksi, repack, dan pengelolaan lokalisasi game RE Engine yang dibangun menggunakan Rust, Tauri, Next.js, dan MySQL. |
 
 ## Tech & Tools
 
